@@ -12,6 +12,6 @@ package com.mycompany.github;
 public class GitHub {
 
     public static void main(String[] args) {
-        System.out.println("Hola miam0r!");
+        System.out.println("No se que acabo de hacer, pero espero que funcione :c");
     }
 }
