@@ -7,7 +7,7 @@ package com.mycompany.github;
 
 /**
  *
- * @author 
+ * @author jotin
  */
 public class GitHub{
     
