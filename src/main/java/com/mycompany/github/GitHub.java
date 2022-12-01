@@ -15,6 +15,7 @@ public class GitHub{
         System.out.println(" Jonathan alexis salas montoya ");
         System.out.println(" Jonathan eli rodriguez marrufo ");
         System.out.println(" Jose Francisco Dominguez Hernandez :) .l.");
+        System.out.println(" Héctor Alán Martínez Murillo ");
         
     }
 }
